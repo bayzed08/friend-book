@@ -1,0 +1,17 @@
+.all-user-info{
+    display:flex;
+    border: 2px solid rgb(161, 127, 127);
+    border-radius: 15px;
+    text-align: center;
+
+}
+.user-info{
+    width: 70%;
+     border-right: 1px solid lightgrey;
+}
+
+.user-cart-info{
+    margin-left: 15px;
+    padding: 10px;
+    text-align: center;
+}

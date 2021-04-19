@@ -1,0 +1,24 @@
+.friend-all{
+  display:flex;
+  margin: 10px;
+  padding: 5px;
+
+}
+.friend-info{
+    border: 2px solid gainsboro;
+    border-radius:10px;
+    width: 70%;
+    padding: 10px;
+}
+.friend-image{
+    width:30%;
+    height:350px;
+    border: 2px solid gainsboro;
+    border-radius:10px;
+}
+.friend-image img{
+    width: 90%;
+    height:80%;
+    padding: 10px;
+
+}
